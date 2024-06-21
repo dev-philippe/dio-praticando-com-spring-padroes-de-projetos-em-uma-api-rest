@@ -22,4 +22,5 @@ public interface ClienteService {
     void deletar(long id);
 
 
+    void deletar(Long id);
 }
